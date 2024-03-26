@@ -1,0 +1,21 @@
+.coffeeShops{
+    color:white;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+.coffeeShops:hover{
+    
+    text-shadow: 0 0 15px white;
+}
+.navbar{
+    background-color: #a18262;
+    border-radius: 5px;
+    display: flex;
+    margin-left: 10px;
+    opacity: 0.80;
+}
+a{
+    margin-left: 10px;
+}
