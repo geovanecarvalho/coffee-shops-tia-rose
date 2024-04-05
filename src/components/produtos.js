@@ -24,8 +24,7 @@ function Produtos(){
                                 <img className="card-img-top" src="https://img.freepik.com/fotos-gratis/deliciosa-xicara-de-cafe-de-qualidade_23-2150691369.jpg" />
                                 <div className="card-body">
                                     <h5 className="card-title">Macchiato</h5>
-                                    <p className="card-text">
-O café Macchiato, originário da Itália, é uma deliciosa variação do café espresso que combina a intensidade do expresso com um toque suave de leite vaporizado.</p>
+                                    <p className="card-text">O café Macchiato, originário da Itália, é uma deliciosa variação do café espresso que combina a intensidade do expresso com um toque suave de leite vaporizado.</p>
                                     <p className="card-text"><small className="text-muted">R$ 12,00</small></p>
                                 </div>
                             </div>
