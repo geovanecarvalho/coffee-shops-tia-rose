@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coffee-shops-tia-rose/static/css/main.d6a6be18.css",
-    "main.js": "/coffee-shops-tia-rose/static/js/main.0980d9a9.js",
+    "main.js": "/coffee-shops-tia-rose/static/js/main.eee0c02b.js",
     "static/js/453.0daa462c.chunk.js": "/coffee-shops-tia-rose/static/js/453.0daa462c.chunk.js",
     "index.html": "/coffee-shops-tia-rose/index.html",
     "main.d6a6be18.css.map": "/coffee-shops-tia-rose/static/css/main.d6a6be18.css.map",
-    "main.0980d9a9.js.map": "/coffee-shops-tia-rose/static/js/main.0980d9a9.js.map",
+    "main.eee0c02b.js.map": "/coffee-shops-tia-rose/static/js/main.eee0c02b.js.map",
     "453.0daa462c.chunk.js.map": "/coffee-shops-tia-rose/static/js/453.0daa462c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a6be18.css",
-    "static/js/main.0980d9a9.js"
+    "static/js/main.eee0c02b.js"
   ]
 }
